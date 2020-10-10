@@ -1,6 +1,6 @@
 {
   "name": "begit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple Git CLI for Beginners",
   "type": "module",
   "publishConfig": {
@@ -8,7 +8,8 @@
   },
   "bin": {
     "begit": "index.js",
-    "bgit": "index.js"
+    "bgit": "index.js",
+    "sgit": "index.js"
   },
   "main": "index.js",
   "repository": {
