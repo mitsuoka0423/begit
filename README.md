@@ -5,7 +5,7 @@
 Simple Git CLIは、プログラム初学者のためのGitを簡単に扱えるコマンドラインインターフェースツールです。
 GitHubのアカウントがあれば、3コマンドでファイルをGitHubにアップロードすることができます。
 詳しい手順はこちらの記事を参照してください。
-⇢ [Gitをシンプルに使えるCLIツール作った - simple-git-cli](https://zenn.dev/tmitsuoka0423/articles/b3af045e017b8efd2f61)
+⇢ [Gitをシンプルに使えるCLIツール作った - begit](https://zenn.dev/tmitsuoka0423/articles/b3af045e017b8efd2f61)
 
 ## インストール
 
