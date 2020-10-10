@@ -1,4 +1,4 @@
-# simple-git-cli
+# begit
 
 ## 概要
 
@@ -10,7 +10,7 @@ GitHubのアカウントがあれば、3コマンドでファイルをGitHubに�
 ## インストール
 
 ```bash
-$ npm install -g simple-git-cli
+$ npm install -g begit
 ```
 
 ## 使い方
